@@ -39,12 +39,23 @@
     color: cornflowerblue;
 }
 .restaurantimg1{
-    width:670px;
-    height:400px;
+    width:45vw;
+    height:29vw;
     float:left;
 
 }
 .welcome {
+    font-size:2vw;
     text-align:center;
-    color:cornflowerblue;
+    color: cornflowerblue;
+}
+.blurb {
+    font-size: 1.5vw;
+    text-align: center;
+    color:black;
+}
+.maori {
+    float:right;
+    height:15vw;    
+    width:52.5vw;
 }
