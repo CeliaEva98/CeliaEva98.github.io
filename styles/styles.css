@@ -15,10 +15,11 @@
 }
 .BOP {
     height:230px;
-    width:1520px;
+    width: 100vw;
 
 }
 .navmenu{
+    width:100vw;
     margin:2px;
     margin-bottom:5px;
     background-color: black;
