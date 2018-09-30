@@ -35,17 +35,15 @@
     color:white;
 }
 .navmenu li a:hover{
-    color: blue;
+    color: cornflowerblue;
 }
 .restaurantimg1{
     width:670px;
     height:400px;
-    display:inline-block;
-    vertical-align: top;
+    float:left;
 
 }
 .welcome {
-    float:right;
-    text-align:right;
+    text-align:center;
     color:cornflowerblue;
 }
