@@ -1,8 +1,14 @@
 .relative {
     position:relative;
     width:60px;
+    margin:0;
+    padding:0;
+}
+h1 {
+    margin:0;
 }
 .absolute-text{
+    float:left;
     position: absolute;
     bottom:0;
     font-size:50px;
@@ -10,41 +16,76 @@
     width:110%;
     text-align:center;
     color:white;
-    margin:0;
-    
+    margin:0;  
 }
 .BOP {
-    height:230px;
-    width: 98vw;
-
+    box-sizing: border-box;
+    display:block;
+    height:15vw;
+    width:99.95vw;
+    margin-left:-0.5vw;
+    margin-top:-0.5vw;
+    padding:0; 
+    border:0;
 }
-.navmenu{
+.BOP1 {
+    box-sizing: border-box;
+    display:block;
+    height:15vw;
+    width:100vw;
+    margin:0;
+    padding:0; 
+    border:0;
+}
+.navmenu2 {
+    widows: 97.45vw;
+    display:block;
+    margin:0;
     widows:90vw;
-    margin:2px;
-    margin-bottom:5px;
-    background-color: black;
-    height:40px;
+    background-color:black;
+    height:2.5vw;
 }
-.navmenu li{
+.navmenu2 li {
     display:inline;
     font-size:1.8vw;
     text-align:right;
     margin:6vw;
     color: white;
 }
-.navmenu li a{
+.navmenu2 li a{
     color:white;
 }
-.navmenu li a:hover{
+.navmenu2 li a:hover {
+    color:cornflowerblue;
+}
+.navmenu1 {
+    width:97.34999vw;
+    display:block;
+    margin: 0;
+    margin-left:-0.5vw; 
+    widows:90vw;
+    background-color: black;
+    height:2.5vw;
+}
+.navmenu1 li{
+    display:inline;
+    font-size:1.8vw;
+    text-align:right;
+    margin:6vw;
+    color: white;
+}
+.navmenu1 li a{
+    color:white;
+}
+.navmenu1 li a:hover{
     color: cornflowerblue;
 }
 .restaurantimg1{
     width:47.5vw;
     height:26vw;
     float:left;
-    margin-bottom:0vw;
-    margin-right:1vw;
-
+    margin-left:-0.5vw;
+    padding:0;
 }
 .welcome {
     margin-top:0.5vw;
@@ -62,7 +103,6 @@
     float:right;
     height:13.5vw;    
     width:49vw;
-    margin-bottom:0vw;
 }
 .footer {
     background-color:white;
@@ -79,7 +119,7 @@
     float:center;
 }
 .contact {
-    margin-bottom:3vw;
+    margin-bottom:2.6vw;
     font-size:1.1vw;
 }
 
@@ -87,10 +127,17 @@
     color:cornflowerblue;
 }
 .footer{
-
     padding-bottom:0vw;
     margin-top:0vw;
     text-align:left;
     font-size:1.1vw;
     margin-bottom:0;
+}
+.body {
+    margin:0;
+    padding:0;
+}
+.header {
+    margin:0;
+    padding:0;
 }
