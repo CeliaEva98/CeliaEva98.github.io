@@ -12,3 +12,7 @@ Keyboard able to be used to access different navigational menu options and can b
 ARIA roles and landmarks used to identify the main content of the web pages, the navigational menu and the banners/headers in the web pages.
 I also made sure to use text overlays over the images for the banner rather than first editing the text onto the image and using the image that has the text on it.
 The layout of the website also remains the same on each page rather than changing entirely on each page. 
+
+RESPONSIVE DESIGN PRINCIPLES:
+Horizontal scrolling is not necessary to see all of the content on the page.
+Viewport scaling has been added to allow the size of content to update based on the size of the device's viewport. 
