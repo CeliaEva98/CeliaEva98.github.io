@@ -46,7 +46,7 @@ h1 {
     box-sizing: border-box;
     display: block;
     height: 15vw;
-    width: 99.9vw;
+    width: 98.5vw;
     margin: 0;
     margin-left: -0.5vw;
     margin-top: -0.5vw;
@@ -203,11 +203,11 @@ h1 {
 }
 
 .navmenu3 {
-    width: 90vw;
+    width: 80vw;
     display: block;
     margin: 0;
     margin-left: -2vw;
-    widows: 90vw;
+    widows: 80vw;
     background-color: black;
     height: 2.5vw;
 }
@@ -371,7 +371,7 @@ h4 {
     margin: 0;
     margin-left: -1.3vw;
     widows: 70vw;
-    height: 3vw;
+    height: 5vw;
     background-color: black;
 }
 
@@ -379,7 +379,7 @@ h4 {
     display: inline;
     font-size: 1.4vw;
     text-align: right;
-    margin: 2vw;
+    margin: 5vw;
     color: white;
 }
 
