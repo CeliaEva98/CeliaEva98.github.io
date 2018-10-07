@@ -6,18 +6,18 @@ ACCESSIBILITY GUIDELINES:
 The "h1" heading is larger than all of the other headings. The "h2" headings are smaller than the "h1" headings but larger than the "h3" heading used. 
 All of the images used have an appropriate and descriptive alt text
 Minimal use of colour. Colour that was used to overlay images was overlayed in a way that is large enough that it is easy to read.
-Colour used in a way that should not make it too difficult for people with colour-blindness to read
-Navigational menu options spread wide enough not to create issues.
+Colour used in a way that should not make it too difficult for people with colour-blindness to read (limited colour used at that).
+Navigational menu options spread wide enough not to create issues with people meaning to select one option and selecting one that is placed too close to it.
 Keyboard able to be used to access different navigational menu options and can be used to access Google form used for bookings and to change the dates that are showing the in the Google calendar. Can also scroll using the up and down arrow keys
 ARIA roles and landmarks used to identify the main content of the web pages, the navigational menu and the banners/headers in the web pages.
-I also made sure to use text overlays over the images for the banner rather than first editing the text onto the image and using the image that has the text on it.
-The layout of the website also remains the same on each page rather than changing entirely on each page. 
+I also made sure to use text overlays over the images for the banner rather than first editing the text onto the image and using the image that has the text on it. This makes it possible for people using screen readers to have the text read to them rather than missing out on that piece of text. 
+The layout of the website also remains the same on each page rather than changing entirely on each page which helps to reduce confusion for people who may have a mental disability. 
 
 RESPONSIVE DESIGN PRINCIPLES:
 Horizontal scrolling is not necessary to see all of the content on the page.
-Viewport scaling has been added to allow the size of content to update based on the size of the device's viewport. 
-Image sizes scale with the page size and viewport size. 
-Font sizes are legible for both mobile and desktop devices. 
+Viewport scaling has been added to allow the size of content to update based on the size of the device's viewport. This has been added to all appropriate elements, except the iframe elements which returned errors for the HTML5 check. The scaling has also been changed to make it fit better on some device screens. 
+Image sizes scale with the page size and viewport size rather than having a static form of measurement used. 
+Font sizes are legible for both mobile and desktop devices as they are sized for the viewport rather than a static size. 
 
 ROLE OF HTTP CACHING AND CONTENT DELIVERY NETWORKS:
 Web caching would increase the responsiveness of the web application by allowing the web page to load faster. This would be done by allowing the browser to keep a copy of the previously loaded website locally. This will mean that if the web server has not changed then the download speed and responsiveness of the website will increase significantly. 
