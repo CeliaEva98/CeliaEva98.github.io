@@ -3,8 +3,8 @@ The Haukai Restaurant web application
 Webpage link: https://celiaeva98.github.io/
 
 ACCESSIBILITY GUIDELINES:
-The "h1" heading is larger than all of the other headings. The "h2" headings are smaller than the "h1" headings but larger than the "h3" heading used. 
-All of the images used have an appropriate and descriptive alt text
+The "h1" heading is larger than all of the other headings. The "h2" headings are smaller than the "h1" headings but larger than the "h3" heading used. THis helps the webpage to have a better flow and for people to understand in which order things should be read as well as making it easier  to understand and differentiate. 
+All of the images used have an appropriate and descriptive alt text for screen readers to be able to read for people who are visually impaired. 
 Minimal use of colour. Colour that was used to overlay images was overlayed in a way that is large enough that it is easy to read.
 Colour used in a way that should not make it too difficult for people with colour-blindness to read (limited colour used at that).
 Navigational menu options spread wide enough not to create issues with people meaning to select one option and selecting one that is placed too close to it.
