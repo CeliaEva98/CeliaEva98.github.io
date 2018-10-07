@@ -14,7 +14,7 @@ I also made sure to use text overlays over the images for the banner rather than
 The layout of the website also remains the same on each page rather than changing entirely on each page which helps to reduce confusion for people who may have a mental disability. 
 
 RESPONSIVE DESIGN PRINCIPLES:
-Horizontal scrolling is not necessary to see all of the content on the page.
+Horizontal scrolling is not necessary to see all of the content on the page as it fits on pages on mobile devices and desktop devices.
 Viewport scaling has been added to allow the size of content to update based on the size of the device's viewport. This has been added to all appropriate elements. The scaling has also been changed to make it fit better on some device screens. 
 Image sizes scale with the page size and viewport size rather than having a static form of measurement used. 
 Font sizes are legible for both mobile and desktop devices as they are sized for the viewport rather than a static size. 
