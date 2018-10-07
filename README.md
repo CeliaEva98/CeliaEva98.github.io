@@ -15,7 +15,7 @@ The layout of the website also remains the same on each page rather than changin
 
 RESPONSIVE DESIGN PRINCIPLES:
 Horizontal scrolling is not necessary to see all of the content on the page.
-Viewport scaling has been added to allow the size of content to update based on the size of the device's viewport. This has been added to all appropriate elements, except the iframe elements which returned errors for the HTML5 check. The scaling has also been changed to make it fit better on some device screens. 
+Viewport scaling has been added to allow the size of content to update based on the size of the device's viewport. This has been added to all appropriate elements. The scaling has also been changed to make it fit better on some device screens. 
 Image sizes scale with the page size and viewport size rather than having a static form of measurement used. 
 Font sizes are legible for both mobile and desktop devices as they are sized for the viewport rather than a static size. 
 
