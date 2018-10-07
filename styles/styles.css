@@ -371,7 +371,7 @@ h4 {
     margin: 0;
     margin-left: -1.3vw;
     widows: 70vw;
-    height: 5vw;
+    height: 3vw;
     background-color: black;
 }
 
@@ -532,4 +532,25 @@ h4 {
     background-color: white;
     text-align: left;
     font-size: 1.5vw;
+}
+.Menunav2 {
+    width: 96vw;
+    display: block;
+    margin: 0;
+    margin-left: -1.3vw;
+    widows: 70vw;
+    height: 3vw;
+    background-color: black;
+}
+
+.Menunav2 li {
+    display: inline;
+    font-size: 1.5vw;
+    text-align: right;
+    margin: 4vw;
+    color: white;
+}
+
+.Menunav2 li a {
+    color: white;
 }
