@@ -84,7 +84,7 @@ h1 {
     margin: 0;
     widows: 90vw;
     background-color: black;
-    height: 2.5vw;
+    height: 2.75vw;
 }
 
 .navmenu2 li {
@@ -110,7 +110,7 @@ h1 {
     margin-left: -0.5vw;
     widows: 90vw;
     background-color: black;
-    height: 2.5vw;
+    height: 2.75vw;
 }
 
 .navmenu1 li {
@@ -206,10 +206,10 @@ h1 {
     width: 80vw;
     display: block;
     margin: 0;
-    margin-left: -2vw;
+    margin-left: -3vw;
     widows: 80vw;
     background-color: black;
-    height: 2.5vw;
+    height: 2.75vw;
 }
 
 .navmenu3 li {
@@ -271,7 +271,7 @@ h1 {
     margin-left: -0.5vw;
     widows: 90vw;
     background-color: black;
-    height: 2.5vw;
+    height: 2.75vw;
 }
 
 .navmenu4 li {
@@ -394,7 +394,7 @@ h4 {
     margin-left: -0.5vw;
     widows: 90vw;
     background-color: black;
-    height: 2.5vw;
+    height: 2.75vw;
 }
 
 .navmenu5 li {
