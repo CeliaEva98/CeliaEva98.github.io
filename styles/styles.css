@@ -522,3 +522,8 @@ h4 {
     margin: 0;
     border: 0;
 }
+.footerres {
+    background-color: white;
+    text-align: left;
+    font-size: 6vw;
+}
