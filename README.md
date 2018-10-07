@@ -18,6 +18,7 @@ Horizontal scrolling is not necessary to see all of the content on the page as i
 Viewport scaling has been added to allow the size of content to update based on the size of the device's viewport. This has been added to all appropriate elements. The scaling has also been changed to make it fit better on some device screens. 
 Image sizes scale with the page size and viewport size rather than having a static form of measurement used. 
 Font sizes are legible for both mobile and desktop devices as they are sized for the viewport rather than a static size. 
+Most of the pages can be resized without creating large issues. 
 
 ROLE OF HTTP CACHING AND CONTENT DELIVERY NETWORKS:
 Web caching would increase the responsiveness of the web application by allowing the web page to load faster. This would be done by allowing the browser to keep a copy of the previously loaded website locally. This will mean that if the web server has not changed then the download speed and responsiveness of the website will increase significantly. 
