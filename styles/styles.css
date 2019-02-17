@@ -91,7 +91,7 @@ h1 {
     display: inline;
     font-size: 1.8vw;
     text-align: right;
-    margin: 6vw;
+    margin: 4.5vw;
     color: white;
 }
 
@@ -117,7 +117,7 @@ h1 {
     display: inline;
     font-size: 1.8vw;
     text-align: right;
-    margin: 6vw;
+    margin: 4.5vw;
     color: white;
 }
 
@@ -216,7 +216,7 @@ h1 {
     display: inline;
     font-size: 1.8vw;
     text-align: right;
-    margin: 6vw;
+    margin: 4.5vw;
     color: white;
 }
 
@@ -252,7 +252,7 @@ h1 {
     display: inline;
     font-size: 1.8vw;
     text-align: right;
-    margin: 6vw;
+    margin: 4.5vw;
     color: white;
 }
 
@@ -278,7 +278,7 @@ h1 {
     display: inline;
     font-size: 1.8vw;
     text-align: right;
-    margin: 6vw;
+    margin: 4.5vw;
     color: white;
 }
 
@@ -401,7 +401,7 @@ h4 {
     display: inline;
     font-size: 1.8vw;
     text-align: right;
-    margin: 6vw;
+    margin: 4.5vw;
     color: white;
 }
 
@@ -412,6 +412,31 @@ h4 {
 .navmenu5 li a:hover {
     color: cornflowerblue;
 }
+.navmenu6 {
+    width: 97.25vw;
+    display: block;
+    margin: 0;
+    margin-left: -0.5vw;
+    widows: 90vw;
+    background-color: black;
+    height: 2.75vw;
+}
+.navmenu6 li {
+    display: inline;
+    font-size: 1.8vw;
+    text-align: right;
+    margin: 4.5vw;
+    color: white;
+}
+
+.navmenu6 li a {
+    color: white;
+}
+
+.navmenu6 li a:hover {
+    color: cornflowerblue;
+}
+
 
 .rawfish {
     margin-top: 7vw;
