@@ -25,3 +25,49 @@
     padding: 0;
     border: 0;
 }
+.nav1 {
+    width: 97vw;
+    display: block;
+    margin: 0;
+    widows: 90vw;
+    background-color: black;
+    height: 2.75vw;
+}
+.nav1 li {
+    display: inline;
+    font-size: 1.8vw;
+    text-align: right;
+    margin: 4.5vw;
+    color: white;
+}
+
+.nav1 li a {
+    color: white;
+}
+
+.nav1 li a:hover {
+    color: cornflowerblue;
+}
+.nav2 {
+    width: 97vw;
+    display: block;
+    margin: 0;
+    widows: 90vw;
+    background-color: black;
+    height: 2.75vw;
+}
+.nav2 li {
+    display: inline;
+    font-size: 1.8vw;
+    text-align: right;
+    margin: 4.5vw;
+    color: white;
+}
+
+.nav2 li a {
+    color: white;
+}
+
+.nav2 li a:hover {
+    color: cornflowerblue;
+}
