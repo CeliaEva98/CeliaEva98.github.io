@@ -25,24 +25,3 @@
     padding: 0;
     border: 0;
 }
-.nav7 {
-    background-color: black;
-    width: 97vw;
-    display: block;
-    margin:0;
-    widows: 90vw;
-    height: 2.75vw;
-}
-.nav7 li {
-    display: inline;
-    font-size: 1.8vw;
-    text-align: center;
-    margin: 4.5vw;
-    color: white;
-}
-.nav7 li a {
-    color: white;
-}
-.nav7 li a:hover {
-    color: cornflowerblue;
-}
