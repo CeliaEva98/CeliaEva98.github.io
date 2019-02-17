@@ -1,6 +1,8 @@
 # CeliaEva98.github.io
 The Haukai Restaurant web application
 Webpage link: https://celiaeva98.github.io/
+Repository: https://github.com/CeliaEva98/CeliaEva98.github.io
+Heroku app link: https://secret-hamlet-67620.herokuapp.com/
 
 ACCESSIBILITY GUIDELINES:
 The "h1" heading is larger than all of the other headings. The "h2" headings are smaller than the "h1" headings but larger than the "h3" heading used. THis helps the webpage to have a better flow and for people to understand in which order things should be read as well as making it easier  to understand and differentiate. 
