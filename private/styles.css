@@ -1,0 +1,11 @@
+
+.BOP {
+    box-sizing: border-box;
+    display: block;
+    height: 15vw;
+    width: 99.95vw;
+    margin-left: -0.5vw;
+    margin-top: -0.5vw;
+    padding: 0;
+    border: 0;
+}
