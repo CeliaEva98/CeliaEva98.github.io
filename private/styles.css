@@ -9,3 +9,14 @@
     padding: 0;
     border: 0;
 }
+.absolute-text {
+    float: left;
+    position: absolute;
+    bottom: 0;
+    font-size: 3.5vw;
+    padding: 2vw;
+    width: 110%;
+    text-align: center;
+    color: white;
+    margin: 0;
+}
