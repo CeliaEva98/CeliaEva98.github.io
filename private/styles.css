@@ -25,3 +25,11 @@
     padding: 0;
     border: 0;
 }
+.nav7 {
+    background-color: black;
+    width: 97vw;
+    display: block;
+    margin:0;
+    widows: 90vw;
+    height: 2.75vw;
+}
