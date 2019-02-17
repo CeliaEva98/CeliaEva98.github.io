@@ -1,13 +1,8 @@
-
-.BOP {
-    box-sizing: border-box;
-    display: block;
-    height: 15vw;
-    width: 99.95vw;
-    margin-left: -0.5vw;
-    margin-top: -0.5vw;
+.relative {
+    position: relative;
+    width: 60px;
+    margin: 0;
     padding: 0;
-    border: 0;
 }
 .absolute-text {
     float: left;
@@ -19,4 +14,14 @@
     text-align: center;
     color: white;
     margin: 0;
+}
+.BOP {
+    box-sizing: border-box;
+    display: block;
+    height: 15vw;
+    width: 99.95vw;
+    margin-left: -0.5vw;
+    margin-top: -0.5vw;
+    padding: 0;
+    border: 0;
 }
