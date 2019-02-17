@@ -81,3 +81,9 @@
 .nav2 li a:hover {
     color: cornflowerblue;
 }
+.staffheading {
+    font-size: 3vw;
+}
+.details {
+    font-size:1.2vw;
+}
